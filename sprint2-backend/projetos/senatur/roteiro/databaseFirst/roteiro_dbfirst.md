@@ -127,11 +127,11 @@ GO
 
 ### Escolher a opção ```Novo Diagrama de Banco de Dados```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_exportar_diagrama.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_exportar_diagrama.png" />
 
 ### Selecionar todas as tabelas e adicionar
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_exportar_diagrama_02.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_exportar_diagrama_02.png" />
 
 ### Salvar o diagrama gerado como imagem (.png, .jpeg etc)
 
@@ -139,21 +139,21 @@ GO
 
 ### Abrir o Visual Studio e navegar pelo menu ```Arquivo > Novo > Projeto```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao.png" />
 
 ### Escolher a opção ```Aplicativo Web ASP.NET Core``` e definir o nome e a pasta destino do projeto
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_02.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_02.png" />
 
 ### Na tela seguinte, escolher a opção ```Vazio``` e ```desabilitar a configuração HTTPS```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_03.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_03.png" />
 
 # 6. Instalar as dependências do projeto
 
 ### No Visual Studio, navegar pelo menu ```Projeto > Gerenciar Pacotes do NuGet```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_04.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_04.png" />
 
 ### Procurar e instalar com as versões definidas
 
@@ -173,7 +173,7 @@ Scaffold-DbContext "Data Source=Seu-Servidor; Initial Catalog=Senatur_DataBaseFi
 
 ### Assim, o contexto e os domínios serão gerados automagicamente
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_05.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_05.png" />
 
 # 8. Definir DataAnnotations nos domínios
 
@@ -268,17 +268,17 @@ public partial class Pacotes
 
 ### Clicar com o botão direito do mouse sobre o projeto e adicionar uma nova pasta com o nome ```ViewModels```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_06.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_06.png" />
 
 ## ViewModel de Login
 
 ### Clicar com o botão direito do mouse sobre a pasta ```ViewModels``` e clicar na opção ```Adicionar > Classe```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_07.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_07.png" />
 
 ### Escolher o tipo ```Classe``` e nomear como ```LoginViewModel```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_08.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_08.png" />
 
 ### Definir as propriedades da classe
 
@@ -312,7 +312,7 @@ public class LoginViewModel
 
 ### Escolher o tipo ```Interface``` e nomear como ```ITipoUsuarioRepository```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_09.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_09.png" />
 
 ### Definir os métodos referentes aos tipos de usuário
 
@@ -656,13 +656,13 @@ public class PacoteRepository : IPacoteRepository
 
 ### Clicar com o botão direito do mouse sobre a pasta ```Controllers``` e clicar na opção ```Adicionar > Controlador```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_10.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_10.png" />
 
 ### Escolher o tipo ```Controlador API - Vazio``` e nomear como ```TiposUsuarioController```
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_11.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_11.png" />
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_12.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_12.png" />
 
 ### Definir as configurações e os endpoints do controlador
 
@@ -884,7 +884,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env)
 
 ### Executar o projeto e testar as requisições
 
-<img src="https://github.com/carolline-alves-barros/senai-dev-1s2020/blob/master/sprint-2-backend/03_efcore/02.senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_13.png" />
+<img src="https://github.com/senai-desenvolvimento/1s2020-T2/blob/master/sprint2-backend/projetos/senatur/roteiro/databaseFirst/imagens/Senatur_criar_solucao_13.png" />
 
 
 
